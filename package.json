@@ -8,6 +8,5 @@
     "start": "npm run start --prefix backend"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": ""
 }
